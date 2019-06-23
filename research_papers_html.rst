@@ -11,7 +11,7 @@ HTML: All Papers (except Editorials)
 
 1.2. Check title spelling.
 
-1.3. Check that title is written in blue and bold font.
+1.3. Check that title is written in black and bold font.
 
 1.4. Check that capitalisation of scientific terms is correct.
 We suggest the you use the :ref:`following procedure<correct_case_check>`, if in you are in doubt regarding this or that term.
@@ -35,6 +35,10 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 2.5. USA affiliations: check that there is no comma between state and zip code for.
 
 2.6. Non-USA affiliations: check that there is no comma between city and zip code.
+
+.. image:: /_static/aff_text_zip_state_city.png
+   :alt: No comma between zip code and state (US) / city (non-US)
+
 
 2.5. Check that each affiliation number has only one complete affiliation. |br|
 One affiliation – one number.
