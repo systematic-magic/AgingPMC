@@ -39,7 +39,6 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 .. image:: /_static/aff_text_zip_state_city.png
    :alt: No comma between zip code and state (US) / city (non-US)
 
-
 2.5. Check that each affiliation number has only one complete affiliation. |br|
 One affiliation – one number.
 
@@ -47,12 +46,12 @@ One affiliation – one number.
 	
 All acceptable combinations of “Current/Present address” are depicted on the screenshot below: 
 
-.. image:: /_static/pic1_curr_pres_address.png
+.. image:: /_static/aff_present_address.png
    :alt: Current/Present address
 
 2.7. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
 
-.. image:: /_static/pic2_aff_format.png
+.. image:: /_static/pic2_pars.png
    :alt: Affiliation format
 
 2.8. Check that first word of Author Notes starts with a capital letter.
