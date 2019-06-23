@@ -59,12 +59,12 @@ All acceptable combinations of “Current/Present address” are depicted on the
 2.9. Check that Author Notes are preceded by a symbol (or group of symbols). |br|
 Most used symbols are: \*, #, †
 
-.. image:: /_static/pic3_author_notes.png
+.. image:: /_static/aff_auth_note.png
    :alt: Author Notes
 
 2.10. Check that Author Notes symbol is linked to author(s) in the author list. 
 
-.. image:: /_static/pic21_author_notes_symbol.png
+.. image:: /_static/aff_auth_note_symbol.png
    :alt: Author Notes Symbol
 
 
