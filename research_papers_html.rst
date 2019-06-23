@@ -46,12 +46,12 @@ One affiliation – one number.
 	
 All acceptable combinations of “Current/Present address” are depicted on the screenshot below: 
 
-.. image:: /_static/aff_present_address.png
+.. image:: /_static/aff_current_address.png
    :alt: Current/Present address
 
 2.7. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
 
-.. image:: /_static/pic2_pars.png
+.. image:: /_static/aff_parts.png
    :alt: Affiliation format
 
 2.8. Check that first word of Author Notes starts with a capital letter.
