@@ -139,18 +139,21 @@ Most used symbols are: \*, #, †
 
 6.1. Check that copyright sting starts with:
 
-:sample:`Last_Name_of_First_Author et al.`
+:sample:`Last name of first author et al.`
 
 **or** 
 
-:sample:`two last names if there are only two authors in the article.`
+:sample:`two last names divided by "and"` (if there are only two authors in the article)
 
 and followed by:
 
 :sample:`This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.`
 
 
-2.2. Check that Last Name of_First Author matches last name of the first author in the Author List.
+.. image:: /_static/cpright_format.png
+   :alt: Copyright format 
+
+2.2. Check that Last name of first author matches last name of the first author in the Author List. In case of 2 authors, check that last names match names in the Author List.
 
 
 
