@@ -1,3 +1,5 @@
+.. role:: sample
+
 .. _title_research_papers:
 
 HTML: All Papers (except Editorials)
@@ -102,7 +104,7 @@ Most used symbols are: \*, #, †
 4. Keywords
 -----------
 
-4.1. Check that Keywords section has a title KEYWORDS:” (ALL CAPS)
+4.1. Check that Keywords section has a title "KEYWORDS” (ALL CAPS)
 
 4.3. Check that article has at least 1 keyword (Note: number of keywords is not limited).
 
@@ -116,20 +118,41 @@ Most used symbols are: \*, #, †
 
 5.2. Check that the dates are separated by semicolon (;). There is a space after semicolon.
 
-5.2. Check that month is spelled out as a word and dates are in-line with the following format: Month Day, Year
+5.3. Check that month is spelled out as a word and dates are in-line with the following format: Month Day, Year
 (e.g. June 1, 2017, April 12, 2016, December 31, 2015, etc.) Note: if a day is presented by single digit, there should be no leading 0.
 
-5.3. Check spelling of the month
+5.4. Check spelling of the month
 
 .. image:: /_static/dates_format.png
    :alt: Dates format 
 
 
-5.4. Check that Received date is older than Accepted date (i.e. we cannot publish before we accept).
+5.5. Check that Received date is older than Accepted date (i.e. we cannot publish before we accept).
 
 .. note:: Pay attention to years.
 
 |
+
+6. Copyright
+------------
+6.1. Check that copyright section has a title "Copyright:" (starts with capital letter and followed by colon(:))
+
+6.1. Check that copyright sting starts with:
+
+:sample:`Last_Name_of_First_Author et al.`
+
+**or** 
+
+:sample:`two last names if there are only two authors in the article.`
+
+and followed by:
+
+:sample:`This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.`
+
+
+2.2. Check that Last Name of_First Author matches last name of the first author in the Author List.
+
+
 
 6. Callouts
 -----------
