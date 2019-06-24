@@ -102,37 +102,9 @@ Most used symbols are: \*, #, †
 4. Keywords
 -----------
 
-4.1. Check that Keywords section has a title “Keywords:” (starts with capital letter and followed by colon (:))
+4.1. Check that Keywords section has a title KEYWORDS:” (ALL CAPS)
 
-4.2. Check that keywords are separated either by , (comma) or by ; (semicolon) and two styles are not mixed
-
-.. image:: /_static/pic6_keywords_separ.png
-   :alt: Keywords
-
-4.3. Check that article (except for Special Section articles - see below) has at least 1 and not more than 5 keywords
-
-4.4. Have a look at TOC Section Title to check whether article belongs to special section. If Section Title contains any of the words in “Special Section” column of the table below, then it belongs to the Special Section
-
-.. image:: /_static/pic7_special_section.png
-   :alt: Special Section
-
-If article belongs to Special Section, then in addition to 5 general keywords article must have ALL special-section-related keywords. Corresponding keywords you can find in the table below. 
-
-+-----------------------------+--------------+ 
-| Special Section             | Keywords     | 
-+=============================+==============+ 
-| Pathology                   | Pathology    | 
-+-----------------------------+--------------+ 
-| Chromosome                  | Chromosome   | 
-+-----------------------------+--------------+ 
-| Gerotarget (Focus on Aging) | Gerotarget   | 
-+-----------------------------+--------------+ 
-| Autophagy                   | Autophagy    | 
-+-----------------------------+--------------+ 
-| Neuroscience	              | Neuroscience | 
-+-----------------------------+--------------+ 
-| Immunology	              | Immunology   | 
-+-----------------------------+--------------+
+4.3. Check that article has at least 1 keyword (Note: number of keywords is not limited).
 
 |
 .. _dates_research_papers:
@@ -140,17 +112,17 @@ If article belongs to Special Section, then in addition to 5 general keywords ar
 5. Dates
 --------
 
-5.1. Check that Dates section has titles “Received:”, “Accepted:”, “Published:” (start with capital letter and followed by colon (:))
+5.1. Check that Dates section has titles “received:”, “accepted:”, “published:” (start with small letter and followed by colon (:))
+
+5.2. Check that the dates are separated by semicolon (;). There is a space after semicolon.
 
 5.2. Check that month is spelled out as a word and dates are in-line with the following format: Month Day, Year
-(e.g. June 01, 2017, April 12, 2016, December 31, 2015, etc.)
+(e.g. June 1, 2017, April 12, 2016, December 31, 2015, etc.) Note: if a day is presented by single digit, there should be no leading 0.
 
 5.3. Check spelling of the month
 
-.. image:: /_static/pic8_dates_format.png
+.. image:: /_static/dates_format.png
    :alt: Dates format 
-
-.. note:: We no longer check Published date. It should be left blank. However, if you see date there, please ignore it.
 
 
 5.4. Check that Received date is older than Accepted date (i.e. we cannot publish before we accept).
