@@ -162,8 +162,8 @@ and followed by:
 6.1. Check whether there is one callout for each of the references in the article text. Callout can be a number, set of numbers divided by comma or a range of numbers separated by hyphen, wrapped in sqare brakets. Callout should be hyperlinked to the corresponding reference. |br|
 Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also screenshot below.
 
-.. image:: /_static/pic22_callouts.png
-   :alt: Callouts
+.. image:: /_static/callouts_format.png
+   :alt: Callouts format
 
 6.2. Check that there are no callouts for non-existing references (i.e. there is a callout, but there is no reference).
 
