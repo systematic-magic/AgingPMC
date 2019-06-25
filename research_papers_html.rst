@@ -137,7 +137,7 @@ Most used symbols are: \*, #, †
 ------------
 6.1. Check that copyright section has a title "Copyright:" (starts with capital letter and followed by colon(:))
 
-6.1. Check that copyright sting starts with:
+6.2. Check that copyright sting starts with:
 
 :sample:`Last name of first author et al.`
 
@@ -153,19 +153,28 @@ and followed by:
 .. image:: /_static/cpright_format.png
    :alt: Copyright format 
 
-2.2. Check that Last name of first author matches last name of the first author in the Author List. In case of 2 authors, check that last names match names in the Author List.
+6.3. Check that Last name of first author matches last name of the first author in the Author List. In case of 2 authors, check that last names match names in the Author List.
+
+
+7. Hyperlinks
+--------------
+7.1. Check that all linkes in the text are hyperlinked
+
+7.2. Check that hyperlinks lead to the valid page.
 
 
 
-6. Callouts
+7. Callouts
 -----------
-6.1. Check whether there is one callout for each of the references in the article text. Callout can be a number, set of numbers divided by comma or a range of numbers separated by hyphen, wrapped in sqare brakets. Callout should be hyperlinked to the corresponding reference. |br|
+7.1. Check whether there is one callout for each of the references in the article text. Callout can be a number, set of numbers divided by comma or a range of numbers separated by en dash, wrapped in sqare brakets. Callout should be hyperlinked to the corresponding reference. |br|
 Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also screenshot below.
 
 .. image:: /_static/callouts_format.png
    :alt: Callouts format
 
-6.2. Check that there are no callouts for non-existing references (i.e. there is a callout, but there is no reference).
+7.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. I.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This is acceptable case.
+
+7.3. Check that there are no callouts for non-existing references (i.e. there is a callout, but there is no reference).
 
 |
 
