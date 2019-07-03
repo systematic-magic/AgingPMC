@@ -14,14 +14,14 @@ PDF: All Papers (except Editorials and News)
 
 + HTML checks
 
-
+|
 2. Affiliations
 ---------------
 No PDF-specific checks
 
 + HTML checks
 
-
+|
 3. Correspondence
 -----------------
 3.1. Check that correspondence section has a title “Correspondence to:” (starts with capital letter and followed by colon (:))
@@ -47,7 +47,7 @@ No PDF-specific checks
 
 + HTML checks
 
-
+|
 4. Keywords
 -----------
 
@@ -65,7 +65,7 @@ No PDF-specific checks
 .. image:: /_static/keywords.png
    :alt: Keywords
 
-
+|
 5. Dates
 --------
 
@@ -81,7 +81,7 @@ No PDF-specific checks
 
 + HTML checks
 
-
+|
 6. Copyright
 ------------
 No PDF-specific checks
@@ -89,7 +89,7 @@ No PDF-specific checks
 + HTML checks
 
 
-
+|
 7. Hyperlinks
 --------------
 7.1. Check that links are hyperlined in blue color and underlined font.
@@ -102,8 +102,7 @@ No PDF-specific checks
 + HTML checks
 
 
-
-
+|
 8. Callouts
 -----------
 8.1. Check that callouts are formatted in plain text and are not hyperlinked.
@@ -115,21 +114,21 @@ No PDF-specific checks
 
 + HTML checks
 
-
+|
 9. References
 -------------
 
 .. ATTENTION::
    	Font of the references differes from rest of the article. This is OK. 
 
-
+|
 9.1 Author List
 ----------------
 No PDF-specific checks
 
 + HTML checks
 
-
+|
 9.2 Citation-Data
 -------------------
 
@@ -142,24 +141,23 @@ No PDF-specific checks
 .. image:: /_static/PMIDlink.png
    :alt: PMIDlink
 
-
-
+|
 9.3 General checks
-====================
+------------------
 No PDF-specific checks
 
 + HTML checks
 
 
 9.4 Websites
-==============
+------------
 No PDF-specific checks
 
 + HTML checks
 
 
 9.5 Books and reports
-=======================
+----------------------
 No PDF-specific checks
 
 + HTML checks

@@ -19,9 +19,8 @@ HTML: All Papers (except Editorials)
 
 1.5. Check that following Latin terms are written in italics: *in vivo, in vitro, in utero, in situ*. 
 For other Latin terms either italics or :ref:`plain text<plain_text>` is acceptable.
-
            
-
+|
 2. Affiliations
 ---------------
 
@@ -131,7 +130,6 @@ Most used symbols are: \*, #, †
 .. note:: Pay attention to years.
 
 |
-
 6. Copyright
 ------------
 6.1. Check that copyright section has a title "Copyright:" (starts with capital letter and followed by colon(:))
@@ -154,7 +152,7 @@ and followed by:
 
 6.3. Check that Last name of first author matches last name of the first author in the Author List. In case of 2 authors, check that last names match names in the Author List.
 
-
+|
 7. Hyperlinks
 --------------
 7.1. Check that all links in the text are hyperlinked.
@@ -162,7 +160,7 @@ and followed by:
 7.2. Check that hyperlinks lead to the valid page.
 
 
-
+|
 8. Callouts
 -----------
 8.1. Check whether there is one callout for each of the references in the article text. Callout can be a number, set of numbers divided by comma or a range of numbers separated by en dash, wrapped in sqare brakets. Callout should be hyperlinked to the corresponding reference. |br|
@@ -183,7 +181,7 @@ Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also scre
    :width: 312px
    :scale: 50%
 
-
+|
 9. References
 --------------
 
@@ -239,7 +237,7 @@ Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also scre
 
 |
 9.2. Citation-Data
------------------
+-------------------
 Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
 
 9.2.1.Check that journal citation-data has the following elements in this order: |br|
@@ -279,9 +277,9 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
    :alt: Ahead of Print
 
 
-
+|
 9.3 General checks
-====================
+------------------
 
 9.3.1. Check for duplicates in the reference list. 
 
@@ -309,9 +307,9 @@ If you find duplicate references, please contact the author asking to correct th
 
 .. _reference_web:
 
-
+|
 9.4 Websites
-==============
+-------------
 
 9.4.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
 
@@ -321,9 +319,9 @@ If the link is not valid, please contact author to provide a working link.
 
 .. _reference_books:
 
-
+|
 9.5 Books and reports
-=======================
+---------------------
 
 9.5.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be there. 
 
