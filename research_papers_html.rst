@@ -196,9 +196,9 @@ Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also scre
 
 9.2. Check that initials have no more than 4 letters and have NO hyphens or spaces in-between.
 
-7.3. Check all the mononyms (names which have no initials) to be “true” mononyms (check PubMed site).
+9.3. Check all the mononyms (names which have no initials) to be “true” mononyms (check PubMed site).
 
-7.4. Check that List of Authors contains no more than either:
+9.4. Check that List of Authors contains no more than either:
 
 - 13 authors followed by “et al.”  OR
 
@@ -211,36 +211,33 @@ Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also scre
 .. image:: /_static/pic11_author_etal_number.png
    :alt: Max number of authors followed by et al
 
-7.5. Check that authors are separated by comma (,) followed by space.
+9.5. Check that authors are separated by comma (,) followed by space.
 
-7.6. Check that et al is separated from List of Authors by comma (,)
+9.6. Check that et al is separated from List of Authors by comma (,)
 
-7.7. Check that there is a dot (.) after last author in the List of Authors or after et al (if it is present).
+9.7. Check that there is a dot (.) after last author in the List of Authors or after et al (if it is present).
 
-7.8. List of Authors can contain Group Authorship (see screenshot below). Check that Group Authorship is positioned at the end of List of Authors. Other positions are not allowed.
+9.8. List of Authors can contain Group Authorship (see screenshot below). Check that Group Authorship is positioned at the end of List of Authors. Other positions are not allowed.
 
-7.9. Group Authorship must be separated from author list by comma (,) and "and" word. Group Authorship is not counted against total number of authors in the author list quota.
+9.9. Group Authorship must be separated from author list by comma (,) and "and" word. Group Authorship is not counted against total number of authors in the author list quota.
 
 
-.. image:: /_static/ref_etal_group_auth
+.. image:: /_static/ref_etal_group_auth.png
    :alt: Group Authorship
 
-.. image:: /_static/pic13_group_authorship2.png
+.. image:: /_static/ref_no_etal_group_auth.png
    :alt: Group Authorship
 
-.. image:: /_static/ref_no_etal_group_auth
+
+9.10. If there are multiple Group Authorshipts, then those should be separated by comma (,) and "and" word. 
+
+.. image:: /_static/ref_mult_group_auth.png
    :alt: Group Authorship
+
 
 |
-8. Citation-Data (in-house journals ONLY)
------------------------------------------
-.. IMPORTANT::
-   This section is applicable ONLY to the references to in-house journals:
-   Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer
-
-
-8.1. Check that title of in-house journal is written correctly: 
-Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer
+10. Citation-Data
+----------------
 
 8.2.Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI. |span_end|
