@@ -164,17 +164,17 @@ and followed by:
 
 
 
-7. Callouts
+8. Callouts
 -----------
-7.1. Check whether there is one callout for each of the references in the article text. Callout can be a number, set of numbers divided by comma or a range of numbers separated by en dash, wrapped in sqare brakets. Callout should be hyperlinked to the corresponding reference. |br|
+8.1. Check whether there is one callout for each of the references in the article text. Callout can be a number, set of numbers divided by comma or a range of numbers separated by en dash, wrapped in sqare brakets. Callout should be hyperlinked to the corresponding reference. |br|
 Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also screenshot below.
 
 .. image:: /_static/callouts_format.png
    :alt: Callouts format
 
-7.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. I.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This is acceptable case.
+8.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. I.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This is acceptable case.
 
-7.3. Check that there are no callouts for non-existing references (i.e. there is a callout, but there is no reference).
+8.3. Check that there are no callouts for non-existing references (i.e. there is a callout, but there is no reference).
 
 |
 
@@ -184,20 +184,17 @@ Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also scre
    :width: 312px
    :scale: 50%
 
-7. Author List (applicable to all journals)
+9. Author List (applicable to all journals)
 --------------------------------------------
 
-.. IMPORTANT::
-   This section contains checks which are applicable to the references to all journals (including in-house ones).
-
-7.1. Check that author names in the List of Authors are in-line with the following format: |br|
+9.1. Check that author names in the List of Authors are in-line with the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
 
 
 .. image:: /_static/pic9_author_name_format.png
    :alt: Author Names format
 
-7.2. Check that initials have no more than 4 letters and have NO hyphens or spaces in-between.
+9.2. Check that initials have no more than 4 letters and have NO hyphens or spaces in-between.
 
 7.3. Check all the mononyms (names which have no initials) to be “true” mononyms (check PubMed site).
 
@@ -222,19 +219,16 @@ Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also scre
 
 7.8. List of Authors can contain Group Authorship (see screenshot below). Check that Group Authorship is positioned at the end of List of Authors. Other positions are not allowed.
 
-7.9. If Group Authorship follows List of Authors, check whether it is separated either by comma (,) or semicolon (;). Group Authorship is not counted against total number of authors in the author quota.
+7.9. Group Authorship must be separated from author list by comma (,) and "and" word. Group Authorship is not counted against total number of authors in the author list quota.
 
 
-.. image:: /_static/pic12_group_authorship1.png
+.. image:: /_static/ref_etal_group_auth
    :alt: Group Authorship
 
 .. image:: /_static/pic13_group_authorship2.png
    :alt: Group Authorship
 
-.. image:: /_static/pic14_group_authorship3.png
-   :alt: Group Authorship
-
-.. image:: /_static/pic15_group_authorship4.png
+.. image:: /_static/ref_no_etal_group_auth
    :alt: Group Authorship
 
 |
