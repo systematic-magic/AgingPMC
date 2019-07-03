@@ -26,4 +26,5 @@ Happy hunting!
    :maxdepth: 2
    :caption: Editorials & News only:
 
+   HTML <editorials_news_html>
    PDF <editorials_news_pdf>
