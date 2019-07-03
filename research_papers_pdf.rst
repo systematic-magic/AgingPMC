@@ -23,7 +23,7 @@ PDF: All Papers (except Editorials and News)
 ---------------
 No PDF-specific checks
 
-+ HTML checks
+`+ HTML checks`
 
 |
 .. _correspondence_pdf_research_papers:
@@ -51,7 +51,7 @@ No PDF-specific checks
    :alt: Correspondence to
 
 
-+ HTML checks
+`+ HTML checks`
 
 |
 .. _keywords_pdf_research_papers:
@@ -89,7 +89,7 @@ No PDF-specific checks
    :alt: Dates
 
 
-+ HTML checks
+`+ HTML checks`
 
 |
 .. _copyright_pdf_research_papers:
@@ -98,7 +98,7 @@ No PDF-specific checks
 ------------
 No PDF-specific checks
 
-+ HTML checks
+`+ HTML checks`
 
 
 |
@@ -113,7 +113,7 @@ No PDF-specific checks
    :alt: Hyperlink
 
 
-+ HTML checks
+`+ HTML checks`
 
 
 |
@@ -128,7 +128,7 @@ No PDF-specific checks
    :alt: Hyperlink
 
 
-+ HTML checks
+`+ HTML checks`
 
 |
 .. _references_pdf_research_papers:
@@ -146,7 +146,7 @@ No PDF-specific checks
 ----------------
 No PDF-specific checks
 
-+ HTML checks
+`+ HTML checks`
 
 |
 .. _citation_data_pdf_research_papers:
@@ -156,9 +156,9 @@ No PDF-specific checks
 
 9.2.1. Check that [PubMed] link is presented in PDF as "PMID:" word followed by hyperlinked PMID number.
 
-9.2.2. Check that "PMID:" word is written in ALL CAPS and formatted as plain text (no special formatting).
+9.2.2. Check that "PMID:" word is written in ALL CAPS and formatted as plain text (no special formatting) and has a colon (:) at the end.
 
-9.2.3. Check that PMID number is hyperlinked to the PMID website
+9.2.3. Check that PMID number is hyperlinked to the PMID website.
 
 .. image:: /_static/PMIDlink.png
    :alt: PMIDlink
@@ -170,7 +170,7 @@ No PDF-specific checks
 ------------------
 No PDF-specific checks
 
-+ HTML checks
+`+ HTML checks`
 
 
 |
@@ -180,7 +180,7 @@ No PDF-specific checks
 ------------
 No PDF-specific checks
 
-+ HTML checks
+`+ HTML checks`
 
 |
 .. _books_pdf_research_papers:
