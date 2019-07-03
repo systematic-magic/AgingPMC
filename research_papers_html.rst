@@ -180,13 +180,6 @@ Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also scre
 
 8.3. Check that there are no callouts for non-existing references (i.e. there is a callout, but there is no reference).
 
-|
-
-.. image:: /_static/pic_head_front_refernces.png
-   :alt: References
-   :height: 82px
-   :width: 312px
-   :scale: 50%
 
 |
 .. _references_research_papers:
