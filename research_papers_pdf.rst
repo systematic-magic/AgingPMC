@@ -8,13 +8,17 @@ PDF: All Papers (except Editorials and News)
    	Please use a merge of HTML and PDF checks for PDF review.
 
 
+.. _title_pdf_research_papers:
+
 1. Title
 --------
 1.1. Check that title is written in **blue** and bold font.
 
-+ HTML checks
+`+ HTML checks`
 
 |
+.. _affiliations_pdf_research_papers:
+
 2. Affiliations
 ---------------
 No PDF-specific checks
@@ -22,6 +26,8 @@ No PDF-specific checks
 + HTML checks
 
 |
+.. _correspondence_pdf_research_papers:
+
 3. Correspondence
 -----------------
 3.1. Check that correspondence section has a title “Correspondence to:” (starts with capital letter and followed by colon (:))
@@ -48,6 +54,8 @@ No PDF-specific checks
 + HTML checks
 
 |
+.. _keywords_pdf_research_papers:
+
 4. Keywords
 -----------
 
@@ -66,6 +74,8 @@ No PDF-specific checks
    :alt: Keywords
 
 |
+.. _dates_pdf_research_papers:
+
 5. Dates
 --------
 
@@ -82,6 +92,8 @@ No PDF-specific checks
 + HTML checks
 
 |
+.. _copyright_pdf_research_papers:
+
 6. Copyright
 ------------
 No PDF-specific checks
@@ -90,6 +102,8 @@ No PDF-specific checks
 
 
 |
+.. _hyperlinks_pdf_research_papers:
+
 7. Hyperlinks
 --------------
 7.1. Check that links are hyperlined in blue color and underlined font.
@@ -103,6 +117,8 @@ No PDF-specific checks
 
 
 |
+.. _callouts_pdf_research_papers:
+
 8. Callouts
 -----------
 8.1. Check that callouts are formatted in plain text and are not hyperlinked.
@@ -115,6 +131,8 @@ No PDF-specific checks
 + HTML checks
 
 |
+.. _references_pdf_research_papers:
+
 9. References
 -------------
 
@@ -122,6 +140,8 @@ No PDF-specific checks
    	Font of the references differes from rest of the article. This is OK. 
 
 |
+.. _author_list_pdf_research_papers:
+
 9.1 Author List
 ----------------
 No PDF-specific checks
@@ -129,6 +149,8 @@ No PDF-specific checks
 + HTML checks
 
 |
+.. _citation_data_pdf_research_papers:
+
 9.2 Citation-Data
 -------------------
 
@@ -142,6 +164,8 @@ No PDF-specific checks
    :alt: PMIDlink
 
 |
+.. _general_checks_pdf_research_papers:
+
 9.3 General checks
 ------------------
 No PDF-specific checks
@@ -149,12 +173,17 @@ No PDF-specific checks
 + HTML checks
 
 
+|
+.. _websites_pdf_research_papers:
+
 9.4 Websites
 ------------
 No PDF-specific checks
 
 + HTML checks
 
+|
+.. _books_pdf_research_papers:
 
 9.5 Books and reports
 ----------------------

@@ -19,8 +19,10 @@ HTML: All Papers (except Editorials)
 
 1.5. Check that following Latin terms are written in italics: *in vivo, in vitro, in utero, in situ*. 
 For other Latin terms either italics or :ref:`plain text<plain_text>` is acceptable.
-           
+
 |
+.. _affiliations_research_papers:          
+
 2. Affiliations
 ---------------
 
@@ -66,7 +68,6 @@ Most used symbols are: \*, #, †
 
 .. image:: /_static/aff_auth_note_symbol.png
    :alt: Author Notes Symbol
-
 
 |
 .. _correspondece_research_papers:
@@ -130,6 +131,8 @@ Most used symbols are: \*, #, †
 .. note:: Pay attention to years.
 
 |
+.. _copyright_research_papers:
+
 6. Copyright
 ------------
 6.1. Check that copyright section has a title "Copyright:" (starts with capital letter and followed by colon(:))
@@ -153,6 +156,8 @@ and followed by:
 6.3. Check that Last name of first author matches last name of the first author in the Author List. In case of 2 authors, check that last names match names in the Author List.
 
 |
+.. _hyperlinks_research_papers:
+
 7. Hyperlinks
 --------------
 7.1. Check that all links in the text are hyperlinked.
@@ -161,6 +166,8 @@ and followed by:
 
 
 |
+.. _callouts_research_papers:
+
 8. Callouts
 -----------
 8.1. Check whether there is one callout for each of the references in the article text. Callout can be a number, set of numbers divided by comma or a range of numbers separated by en dash, wrapped in sqare brakets. Callout should be hyperlinked to the corresponding reference. |br|
@@ -182,8 +189,12 @@ Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also scre
    :scale: 50%
 
 |
+.. _references_research_papers:
+
 9. References
 --------------
+
+.. _author_list_research_papers:
 
 9.1. Author List
 ----------------
@@ -236,6 +247,8 @@ Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also scre
 
 
 |
+.. _citation_data_research_papers:
+
 9.2. Citation-Data
 -------------------
 Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
@@ -278,6 +291,8 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 
 |
+.. _general_checks_research_papers:
+
 9.3 General checks
 ------------------
 
@@ -305,9 +320,10 @@ If you find duplicate references, please contact the author asking to correct th
 
 9.3.6. Remove “PMID” and “PMCID” details, if present in any reference.
 
-.. _reference_web:
 
 |
+.. _websites_research_papers:
+
 9.4 Websites
 -------------
 
@@ -317,9 +333,10 @@ If you find duplicate references, please contact the author asking to correct th
 
 If the link is not valid, please contact author to provide a working link.
 
-.. _reference_books:
 
 |
+.. _books_research_papers:
+
 9.5 Books and reports
 ---------------------
 
