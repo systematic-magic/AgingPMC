@@ -186,7 +186,6 @@ Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also scre
 
 9. Author List (applicable to all journals)
 --------------------------------------------
-
 9.1. Check that author names in the List of Authors are in-line with the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
 
@@ -237,10 +236,11 @@ Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also scre
 
 |
 10. Citation-Data
-----------------
+-----------------
+Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
 
-8.2.Check that journal citation-data has the following elements in this order: |br|
-|span_format_start| JournalTitle. year; volume: pages. DOI. |span_end|
+10.1.Check that journal citation-data has the following elements in this order: |br|
+|span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
 .. image:: /_static/pic16_citaiton_data.png
    :alt: Citation-Data format
@@ -257,45 +257,72 @@ Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also scre
 
 - Page number range can be written either in full (12063-12074) or in shorten format (12063-74). Both formats are allowed.
 
-- Both DOI formats (https:// or doi:) are allowed. Dot (.) at the end of DOI is optional.
+- DOI must be in "https://doi.org" format. There must be no dot at the end.
 
-8.3. Check that all elements of citation-data are present.
-
-8.4. Check that DOI is present. If DOI is missing, then suggest correction to include DOI in the format which is used for other references of the article. Mixing DOI formats is not allowed.
-
-8.5. Check that DOI is complete (resolve, if in doubt) and does not contain spaces.
-
-8.6. Check that citation-data does not contain other elements (i.e. issue number, [pii], [internet])
-
-8.7. There can be references to the articles in Advance Publications (ahead of print). They can be distinguished by having full date (2016 Jul 19) instead of year and/or having [Epub ahead of print] note (see image below). 
+- [PubMed] should be an active link leading to the article page on the PubMed website. There must be no dot at the end.
 
 
-.. image:: /_static/pic17_cit_dat_ahead_of_print.png
+10.2. Check that all elements of citation-data are present in the correct format (see above).
+
+10.3. There can be references to the articles in which have been published "ahead of print". The format of citation data for such articles is as follows:
+|span_format_start| JournalTitle. year. DOI [Epub ahead of print] [PubMed] |span_end|
+
+- Check that there is a dot (.) after Year
+
+- Check that there is an [Epub ahead of print] note after DOI.
+
+
+.. image:: /_static/ref_ahead_of_print.png
    :alt: Ahead of Print
 
-Check whether those references were moved from Advance Publications section to the specific issue and have full-citation data available.
 
-- Go to corresponding article page on Oncotarget site (either use search or resolve DOI)
 
-- Check whether article page contains full citation-data (year; volume: pages).
+11 General checks
+====================
 
-.. image:: /_static/pic18_cit_dat_check.png
-   :alt: Check the original article
+11.1. Check for duplicates in the reference list. 
 
-- If full citation-data is present, then suggest correction to include full citation-data to the reference.
+If you find duplicate references, please contact the author asking to correct the reference list.
 
-.. image:: /_static/pic19_cit_dat_corrections.png
-   :alt: Ahead of print corrections
+11.2. Check for references translated into English from other language (usually you can spot those by keywords: translation, translated from, in Chinese, in French etc). Those references should comply to the following format:
 
-**OR**
+   | :sample:`Author list. [Title of the article]. [Article in Chinese]. Journal Name. 1072; 1: 1-2.` (doi is optional)
+   |
+   | `Example:`
+   | 34. Yang XM, Yang H. [Expression of high mobility group box-1 in the lung tissue and serum of patients with pulmonary tuberculosis]. [Article in Chinese]. Zhonghua Jie He He Hu Xi Za Zhi. 2013; 36:497-500.
 
-.. image:: /_static/pic20_cit_dat_no_full_cit_data.png
-   :alt: Check the original article
 
-- If full citation-data is not present on article page, then leave references as it is. No action is necessary.
+11.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version.
 
-.. image:: /_static/pic17_cit_dat_ahead_of_print.png
-   :alt: Ahead of print corrections
+11.4. Check for extra information to the references (i.e. in addition to "standard" information). Remove all extra information.
+   
+   | `Example:`
+   | ":official publication of the society of…"
+
+
+14.5. Remove any instances of “[Internet]”, "[pii]" and empty (blank) doi.
+
+11.6. Remove “PMID” and “PMCID” details, if present in any reference.
+
+.. _reference_web:
+
+
+12 Websites
+==============
+
+12.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
+
+12.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other not relevant page).
+
+If the link is not valid, please contact author to provide a working link.
+
+.. _reference_books:
+
+13. Books and reports
+=======================
+
+13.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be there. 
+
 
 
 |
