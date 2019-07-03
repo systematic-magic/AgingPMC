@@ -16,7 +16,6 @@ HTML: All Papers (except Editorials)
 1.3. Check that title is written in black and bold font.
 
 1.4. Check that capitalisation of scientific terms is correct.
-We suggest the you use the :ref:`following procedure<correct_case_check>`, if in you are in doubt regarding this or that term.
 
 1.5. Check that following Latin terms are written in italics: *in vivo, in vitro, in utero, in situ*. 
 For other Latin terms either italics or :ref:`plain text<plain_text>` is acceptable.
@@ -158,7 +157,7 @@ and followed by:
 
 7. Hyperlinks
 --------------
-7.1. Check that all linkes in the text are hyperlinked
+7.1. Check that all links in the text are hyperlinked.
 
 7.2. Check that hyperlinks lead to the valid page.
 
@@ -184,20 +183,24 @@ Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also scre
    :width: 312px
    :scale: 50%
 
-9. Author List (applicable to all journals)
---------------------------------------------
-9.1. Check that author names in the List of Authors are in-line with the following format: |br|
+
+9. References
+--------------
+
+9.1. Author List
+----------------
+9.1.1. Check that author names in the List of Authors are in-line with the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
 
 
 .. image:: /_static/pic9_author_name_format.png
    :alt: Author Names format
 
-9.2. Check that initials have no more than 4 letters and have NO hyphens or spaces in-between.
+9.1.2. Check that initials have no more than 4 letters and have NO hyphens or spaces in-between.
 
-9.3. Check all the mononyms (names which have no initials) to be “true” mononyms (check PubMed site).
+9.1.3. Check all the mononyms (names which have no initials) to be “true” mononyms (check PubMed site).
 
-9.4. Check that List of Authors contains no more than either:
+9.1.4. Check that List of Authors contains no more than either:
 
 - 13 authors followed by “et al.”  OR
 
@@ -210,15 +213,15 @@ Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also scre
 .. image:: /_static/pic11_author_etal_number.png
    :alt: Max number of authors followed by et al
 
-9.5. Check that authors are separated by comma (,) followed by space.
+9.1.5. Check that authors are separated by comma (,) followed by space.
 
-9.6. Check that et al is separated from List of Authors by comma (,)
+9.1.6. Check that et al is separated from List of Authors by comma (,)
 
-9.7. Check that there is a dot (.) after last author in the List of Authors or after et al (if it is present).
+9.1.7. Check that there is a dot (.) after last author in the List of Authors or after et al (if it is present).
 
-9.8. List of Authors can contain Group Authorship (see screenshot below). Check that Group Authorship is positioned at the end of List of Authors. Other positions are not allowed.
+9.1.8. List of Authors can contain Group Authorship (see screenshot below). Check that Group Authorship is positioned at the end of List of Authors. Other positions are not allowed.
 
-9.9. Group Authorship must be separated from author list by comma (,) and "and" word. Group Authorship is not counted against total number of authors in the author list quota.
+9.1.9. Group Authorship must be separated from author list by comma (,) and "and" word. Group Authorship is not counted against total number of authors in the author list quota.
 
 
 .. image:: /_static/ref_etal_group_auth.png
@@ -228,18 +231,18 @@ Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also scre
    :alt: Group Authorship
 
 
-9.10. If there are multiple Group Authorshipts, then those should be separated by comma (,) and "and" word. 
+9.1.10. If there are multiple Group Authorshipts, then those should be separated by comma (,) and "and" word. 
 
 .. image:: /_static/ref_mult_group_auth.png
    :alt: Group Authorship
 
 
 |
-10. Citation-Data
+9.2. Citation-Data
 -----------------
 Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
 
-10.1.Check that journal citation-data has the following elements in this order: |br|
+9.2.1.Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
 .. image:: /_static/pic16_citaiton_data.png
@@ -262,9 +265,9 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 - [PubMed] should be an active link leading to the article page on the PubMed website. There must be no dot at the end.
 
 
-10.2. Check that all elements of citation-data are present in the correct format (see above).
+9.2.2. Check that all elements of citation-data are present in the correct format (see above).
 
-10.3. There can be references to the articles in which have been published "ahead of print". The format of citation data for such articles is as follows:
+9.2.3. There can be references to the articles in which have been published "ahead of print". The format of citation data for such articles is as follows:
 |span_format_start| JournalTitle. year. DOI [Epub ahead of print] [PubMed] |span_end|
 
 - Check that there is a dot (.) after Year
@@ -277,14 +280,14 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 
 
-11 General checks
+9.3 General checks
 ====================
 
-11.1. Check for duplicates in the reference list. 
+9.3.1. Check for duplicates in the reference list. 
 
 If you find duplicate references, please contact the author asking to correct the reference list.
 
-11.2. Check for references translated into English from other language (usually you can spot those by keywords: translation, translated from, in Chinese, in French etc). Those references should comply to the following format:
+9.3.2. Check for references translated into English from other language (usually you can spot those by keywords: translation, translated from, in Chinese, in French etc). Those references should comply to the following format:
 
    | :sample:`Author list. [Title of the article]. [Article in Chinese]. Journal Name. 1072; 1: 1-2.` (doi is optional)
    |
@@ -292,7 +295,7 @@ If you find duplicate references, please contact the author asking to correct th
    | 34. Yang XM, Yang H. [Expression of high mobility group box-1 in the lung tissue and serum of patients with pulmonary tuberculosis]. [Article in Chinese]. Zhonghua Jie He He Hu Xi Za Zhi. 2013; 36:497-500.
 
 
-11.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version.
+9.3.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version.
 
 11.4. Check for extra information to the references (i.e. in addition to "standard" information). Remove all extra information.
    
@@ -300,28 +303,29 @@ If you find duplicate references, please contact the author asking to correct th
    | ":official publication of the society of…"
 
 
-14.5. Remove any instances of “[Internet]”, "[pii]" and empty (blank) doi.
+9.3.5. Remove any instances of “[Internet]”, "[pii]" and empty (blank) doi.
 
-11.6. Remove “PMID” and “PMCID” details, if present in any reference.
+9.3.6. Remove “PMID” and “PMCID” details, if present in any reference.
 
 .. _reference_web:
 
 
-12 Websites
+9.4 Websites
 ==============
 
-12.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
+9.4.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
 
-12.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other not relevant page).
+9.4.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other not relevant page).
 
 If the link is not valid, please contact author to provide a working link.
 
 .. _reference_books:
 
-13. Books and reports
+
+9.5 Books and reports
 =======================
 
-13.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be there. 
+9.5.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be there. 
 
 
 
