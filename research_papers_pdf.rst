@@ -163,6 +163,9 @@ No PDF-specific checks
 .. image:: /_static/PMIDlink.png
    :alt: PMIDlink
 
+
+`+ HTML checks`
+
 |
 .. _general_checks_pdf_research_papers:
 
@@ -189,7 +192,7 @@ No PDF-specific checks
 ----------------------
 No PDF-specific checks
 
-+ HTML checks
+`+ HTML checks`
 
 
 
