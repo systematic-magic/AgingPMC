@@ -52,7 +52,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 -------------
 
 3.1. Check that reference conains either of the following:
-	- one author name followed by comma (,) and `et al` followed by dot (.)
+	- one author name followed by comma (,) and et al followed by dot (.)
 	- two author names divided by comma (,) and followed by dot (.)
 
 
@@ -120,7 +120,7 @@ Corresponding author and affiliations can be found at the end of the article rig
 
 4.1. Check that full name of corresponding author is formatted in bold and underlined font and is followed by conlon (:)
 
-4.2. Check that full name of corresponding author is followed by affiliation (multiple affiliations are allowed and should be divided by semicolon (;))
+4.2. Check that full name of corresponding author is followed by affiliation. Only one affiliation is allowed.
 
 4.3. Check that affiliation is formatted in plain text (no special formatting)
 

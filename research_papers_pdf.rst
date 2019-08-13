@@ -69,6 +69,8 @@ No PDF-specific checks
 
 4.5. Check that there is no punctuation mark at the end of the last keyword
 
+4.6. Check that keywords start with a small letter (exception: special terms, genes, proteins, species names etc, which normally start with capital letter).
+
 
 .. image:: /_static/keywords.png
    :alt: Keywords

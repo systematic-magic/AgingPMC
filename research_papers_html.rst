@@ -20,6 +20,9 @@ HTML: All Papers (except Editorials)
 1.5. Check that following Latin terms are written in italics: *in vivo, in vitro, in utero, in situ*. 
 For other Latin terms either italics or :ref:`plain text<plain_text>` is acceptable.
 
+1.6. Check that species, protein and gene names are written in italics.
+
+
 |
 .. _affiliations_research_papers:          
 
@@ -34,37 +37,37 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 2.4. Check that country and city names are NOT written in ALL CAPS (capital letters).
 
-2.5. USA affiliations: check that there is no comma between state and zip code for.
+2.5. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
 
-2.6. Non-USA affiliations: check that there is no comma between city and zip code.
+2.6. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
 
 .. image:: /_static/aff_text_zip_state_city.png
    :alt: No comma between zip code and state (US) / city (non-US)
 
-2.5. Check that each affiliation number has only one complete affiliation. |br|
-One affiliation – one number.
+2.7. Check that each affiliation number has only one complete affiliation. One affiliation – one number. |br|
+One exclusion: affiliations of Chinese authors, where Key Laboratory combines different institutions. In that case one number can contains two affiliations.
 
-2.6. Occasionally affiliations can contain “Current/Present address:” title. If it is present, check that it has a separate affiliation number and that is followed by colon (:). |br| One address - one affiliation number. 
+2.8. Occasionally affiliations can contain “Current/Present address:” title. If it is present, check that it has a separate affiliation number and that is followed by colon (:). |br| One address - one affiliation number. 
 	
 All acceptable combinations of “Current/Present address” are depicted on the screenshot below: 
 
 .. image:: /_static/aff_current_address.png
    :alt: Current/Present address
 
-2.7. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
+2.9. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
 
 .. image:: /_static/aff_parts.png
    :alt: Affiliation format
 
-2.8. Check that first word of Author Notes starts with a capital letter.
+2.10. Check that first word of Author Notes starts with a capital letter.
 
-2.9. Check that Author Notes are preceded by a symbol (or group of symbols). |br|
+2.11. Check that Author Notes are preceded by a symbol (or group of symbols). |br|
 Most used symbols are: \*, #, †
 
 .. image:: /_static/aff_auth_note.png
    :alt: Author Notes
 
-2.10. Check that Author Notes symbol is linked to author(s) in the author list. 
+2.12. Check that Author Notes symbol is linked to author(s) in the author list. 
 
 .. image:: /_static/aff_auth_note_symbol.png
    :alt: Author Notes Symbol
@@ -77,7 +80,7 @@ Most used symbols are: \*, #, †
 
 3.1. Check that correspondence section has a title “CORRESPONDING AUTHORS” (ALL CAPS)
 
-3.2. Check that correspondence section has one or more Author + Email address pairs.
+3.2. Check that correspondence section has one or more Author + Email address pairs. Occasionally an Author can have 2 or more emails.
 
 3.3. Check that Author FullName line does not have any puncutation marks at the end.
 
@@ -105,7 +108,9 @@ Most used symbols are: \*, #, †
 
 4.1. Check that Keywords section has a title "KEYWORDS” (ALL CAPS)
 
-4.3. Check that article has at least 1 keyword (Note: number of keywords is not limited).
+4.2. Check that article has at least 1 keyword (Note: number of keywords is not limited).
+
+4.3. Check that keywords start with a small letter (exception: special terms, genes, proteins, species names etc, which normally start with capital letter).
 
 |
 .. _dates_research_papers:
@@ -135,7 +140,7 @@ Most used symbols are: \*, #, †
 
 6. Copyright
 ------------
-6.1. Check that copyright section has a title "Copyright:" (starts with capital letter and followed by colon(:))
+6.1. Check that copyright section has a title "Copyright ©" (starts with capital letter and followed by copyright symbol (©))
 
 6.2. Check that copyright sting starts with:
 
@@ -217,7 +222,7 @@ Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also scre
 
 9.1.5. Check that authors are separated by comma (,) followed by space.
 
-9.1.6. Check that et al is separated from List of Authors by comma (,)
+9.1.6. Check that et al is separated from List of Authors by comma (,).
 
 9.1.7. Check that there is a dot (.) after last author in the List of Authors or after et al (if it is present).
 
@@ -238,15 +243,23 @@ Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also scre
 .. image:: /_static/ref_mult_group_auth.png
    :alt: Group Authorship
 
+|
+.. _reference_title_research_papers:
+
+9.2. Reference Title
+--------------------
+
+9.2.1. Title can be written in Sentance case, Title case or in ALL CAPS. All these formats are allowed. Format of title is allowed to be inconsistent accross all references in the article.
+
 
 |
 .. _citation_data_research_papers:
 
-9.2. Citation-Data
+9.3. Citation-Data
 -------------------
 Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
 
-9.2.1.Check that journal citation-data has the following elements in this order: |br|
+9.3.1.Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
 .. image:: /_static/citation_data.png
@@ -262,16 +275,17 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 - Space is allowed (but not mandatory) after semicolon and colon. Space is mandatory after both (JournalName and page numbers) dots. Other spaces are not allowed.
 
-- Page number range can be written either in full (12063-12074) or in shorten format (12063-74). Both formats are allowed.
+- Page number range can be written either in full (12063-12074) or in shorten format (12063-74). Both formats are allowed. |br| 
+In rare cases reference can contain just a first page number. This is also allowed.
 
 - DOI must be in "https://doi.org" format. There must be no dot at the end.
 
 - [PubMed] should be an active link leading to the article page on the PubMed website. There must be no dot at the end.
 
 
-9.2.2. Check that all elements of citation-data are present in the correct format (see above).
+9.3.2. Check that all elements of citation-data are present in the correct format (see above).
 
-9.2.3. There can be references to the articles in which have been published "ahead of print". The format of citation data for such articles is as follows:
+9.3.3. There can be references to the articles in which have been published "ahead of print". The format of citation data for such articles is as follows:
 |span_format_start| JournalTitle. year. DOI [Epub ahead of print] [PubMed] |span_end|
 
 - Check that there is a dot (.) after Year
@@ -286,43 +300,43 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 |
 .. _general_checks_research_papers:
 
-9.3 General checks
+9.4. General checks
 ------------------
 
-9.3.1. Check for duplicates in the reference list. 
+9.4.1. Check for duplicates in the reference list. 
 
-If you find duplicate references, please contact the author asking to correct the reference list.
+If you find duplicate references, please contact production team and ask to correct the reference list.
 
-9.3.2. Check for references translated into English from other language (usually you can spot those by keywords: translation, translated from, in Chinese, in French etc). Those references should comply to the following format:
+9.4.2. Check for references translated into English from other language (usually you can spot those by keywords: translation, translated from, in Chinese, in French etc). Those references should comply to the following format:
 
-   | :sample:`Author list. [Title of the article]. [Article in Chinese]. Journal Name. 1072; 1: 1-2.` (doi is optional)
+   | :sample:`Author list. [Title of the article]. Journal Name. 1072; 1: 1-2.` (doi is optional)
    |
    | `Example:`
-   | 34. Yang XM, Yang H. [Expression of high mobility group box-1 in the lung tissue and serum of patients with pulmonary tuberculosis]. [Article in Chinese]. Zhonghua Jie He He Hu Xi Za Zhi. 2013; 36:497-500.
+   | 34. Yang XM, Yang H. [Expression of high mobility group box-1 in the lung tissue and serum of patients with pulmonary tuberculosis]. Zhonghua Jie He He Hu Xi Za Zhi. 2013; 36:497-500.
 
 
-9.3.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version.
+9.4.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version.
 
-11.4. Check for extra information to the references (i.e. in addition to "standard" information). Remove all extra information.
+9.4.5 Check for extra information to the references (i.e. in addition to "standard" information). Remove all extra information.
    
    | `Example:`
    | ":official publication of the society of…"
 
 
-9.3.5. Remove any instances of “[Internet]”, "[pii]" and empty (blank) doi.
+9.4.6 Remove any instances of “[Internet]”, "[pii]" and empty (blank) doi.
 
-9.3.6. Remove “PMID” and “PMCID” details, if present in any reference.
+9.4.7. Remove “PMID” and “PMCID” details, if present in any reference.
 
 
 |
 .. _websites_research_papers:
 
-9.4 Websites
+9.5 Websites
 -------------
 
-9.4.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
+9.5.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
 
-9.4.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other not relevant page).
+9.5.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other not relevant page).
 
 If the link is not valid, please contact author to provide a working link.
 
@@ -330,10 +344,10 @@ If the link is not valid, please contact author to provide a working link.
 |
 .. _books_research_papers:
 
-9.5 Books and reports
+9.6 Books and reports
 ---------------------
 
-9.5.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be there. 
+9.6.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be there. 
 
 
 
