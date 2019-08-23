@@ -98,9 +98,30 @@ No PDF-specific checks
 
 6. Copyright
 ------------
-No PDF-specific checks
 
-`+ HTML checks`
+6.1. Check that copyright section has a title "Copyright:" (starts with capital letter and followed by a colon (:))
+
+6.2. Check that "Copyright:" is formatted in black and bold font
+
+6.3. Check that copyright sting starts with:
+
+:sample:`Last name of first author et al.`
+
+**or** 
+
+:sample:`two last names divided by "and"` (if there are only two authors in the article)
+
+and followed by:
+
+:sample:`This is an open-access article distributed under the terms of the Creative Commons Attribution License
+(CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and
+source are credited.`
+
+.. image:: /_static/pdf_cpright_format.png
+   :alt: PDF Copyright format 
+
+6.4. Check that Last name of first author matches last name of the first author in the Author List. In case of 2 authors, check that last names match names in the Author List.
+
 
 
 |

@@ -20,7 +20,7 @@ HTML: All Papers (except Editorials)
 1.5. Check that following Latin terms are written in italics: *in vivo, in vitro, in utero, in situ*. 
 For other Latin terms either italics or :ref:`plain text<plain_text>` is acceptable.
 
-1.6. Check that species, protein and gene names are written in italics.
+1.6. Check that species and gene names are written in italics.
 
 
 |
@@ -37,37 +37,42 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 2.4. Check that country and city names are NOT written in ALL CAPS (capital letters).
 
-2.5. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
+2.5. China affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned before city/county/district and there must be no comma between city/county/district and zip code. Zip code for is optional for any of the elements (city/county/district).
 
-2.6. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
+.. image:: /_static/aff_text_zip_china.png
+   :alt: No comma between city/county/district and zip code
+
+2.6. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
+
+2.7. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
 
 .. image:: /_static/aff_text_zip_state_city.png
    :alt: No comma between zip code and state (US) / city (non-US)
 
-2.7. Check that each affiliation number has only one complete affiliation. One affiliation – one number. |br|
+2.8. Check that each affiliation number has only one complete affiliation. One affiliation – one number. |br|
 One exclusion: affiliations of Chinese authors, where Key Laboratory combines different institutions. In that case one number can contains two affiliations.
 
-2.8. Occasionally affiliations can contain “Current/Present address:” title. If it is present, check that it has a separate affiliation number and that is followed by colon (:). |br| One address - one affiliation number. 
+2.9. Occasionally affiliations can contain “Current/Present address:” title. If it is present, check that it has a separate affiliation number and that is followed by colon (:). |br| One address - one affiliation number. 
 	
 All acceptable combinations of “Current/Present address” are depicted on the screenshot below: 
 
 .. image:: /_static/aff_current_address.png
    :alt: Current/Present address
 
-2.9. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
+2.10. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
 
 .. image:: /_static/aff_parts.png
    :alt: Affiliation format
 
-2.10. Check that first word of Author Notes starts with a capital letter.
+2.11. Check that first word of Author Notes starts with a capital letter.
 
-2.11. Check that Author Notes are preceded by a symbol (or group of symbols). |br|
+2.12. Check that Author Notes are preceded by a symbol (or group of symbols). |br|
 Most used symbols are: \*, #, †
 
 .. image:: /_static/aff_auth_note.png
    :alt: Author Notes
 
-2.12. Check that Author Notes symbol is linked to author(s) in the author list. 
+2.13. Check that Author Notes symbol is linked to author(s) in the author list. 
 
 .. image:: /_static/aff_auth_note_symbol.png
    :alt: Author Notes Symbol
@@ -86,16 +91,16 @@ Most used symbols are: \*, #, †
 
 3.4. Check that email line is located below the Author FullName nad does not have any punctuation marks at the end.
 
-3.5. Check that multiple Author + Email pairs are divided by a blank link.
+3.5. Check that multiple Author + Email pairs are divided by a blank line.
 
 .. image:: /_static/corr_format.png
    :alt: Correspondence format
 
-3.7. Check that Author FullName does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.)
+3.6. Check that Author FullName does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.)
 
-3.8. Check that email address is hyperlinked
+3.7. Check that email address is hyperlinked
 
-3.9. Check that Author FullName matches corresponding name in the author list (including the middle initials if any)
+3.8. Check that Author FullName matches corresponding name in the author list (including the middle initials if any)
 
 .. image:: /_static/corr_auth_mtch.png
    :alt: Correspondence author match
@@ -142,7 +147,7 @@ Most used symbols are: \*, #, †
 ------------
 6.1. Check that copyright section has a title "Copyright ©" (starts with capital letter and followed by copyright symbol (©))
 
-6.2. Check that copyright sting starts with:
+6.2. Check that copyright sting starts with a YEAR followed by:
 
 :sample:`Last name of first author et al.`
 
@@ -152,7 +157,7 @@ Most used symbols are: \*, #, †
 
 and followed by:
 
-:sample:`This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.`
+:sample:`This is an open-access article distributed under the terms of the Creative Commons Attribution (CC BY) 3.0 License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.`
 
 
 .. image:: /_static/cpright_format.png
@@ -176,6 +181,7 @@ and followed by:
 8. Callouts
 -----------
 8.1. Check whether there is one callout for each of the references in the article text. Callout can be a number, set of numbers divided by comma or a range of numbers separated by en dash, wrapped in sqare brakets. Callout should be hyperlinked to the corresponding reference. |br|
+Callouts can be found in text, figures and tables. |br|
 Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also screenshot below.
 
 .. image:: /_static/callouts_format.png
@@ -184,6 +190,8 @@ Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also scre
 8.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. I.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This is acceptable case.
 
 8.3. Check that there are no callouts for non-existing references (i.e. there is a callout, but there is no reference).
+
+8.4. Check that there are no references for which callouts are missing (i.e. there is a reference, but there is no callout for it).
 
 
 |
@@ -286,12 +294,11 @@ In rare cases reference can contain just a first page number. This is also allow
 9.3.2. Check that all elements of citation-data are present in the correct format (see above).
 
 9.3.3. There can be references to the articles in which have been published "ahead of print". The format of citation data for such articles is as follows:
-|span_format_start| JournalTitle. year. DOI [Epub ahead of print] [PubMed] |span_end|
+|span_format_start| JournalTitle. year. [Epub ahead of print]. DOI [PubMed] |span_end|
 
 - Check that there is a dot (.) after Year
-
-- Check that there is an [Epub ahead of print] note after DOI.
-
+- Check that there is a dot (.) after [Epub ahead of print]
+- Check that [Epub ahead of print] goes after Year and before DOI.
 
 .. image:: /_static/ref_ahead_of_print.png
    :alt: Ahead of Print
@@ -315,17 +322,17 @@ If you find duplicate references, please contact production team and ask to corr
    | 34. Yang XM, Yang H. [Expression of high mobility group box-1 in the lung tissue and serum of patients with pulmonary tuberculosis]. Zhonghua Jie He He Hu Xi Za Zhi. 2013; 36:497-500.
 
 
-9.4.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version.
+9.4.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find Eglish one).
 
-9.4.5 Check for extra information to the references (i.e. in addition to "standard" information). Remove all extra information.
+9.4.4. Check for extra information to the references (i.e. in addition to "standard" information). Remove all extra information.
    
    | `Example:`
    | ":official publication of the society of…"
 
 
-9.4.6 Remove any instances of “[Internet]”, "[pii]" and empty (blank) doi.
+9.4.5. Remove any instances of “[Internet]”, "[pii]" and empty (blank) doi.
 
-9.4.7. Remove “PMID” and “PMCID” details, if present in any reference.
+9.4.6. Remove “PMID” and “PMCID” details, if present in any reference.
 
 
 |
