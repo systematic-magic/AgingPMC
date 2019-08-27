@@ -37,7 +37,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 2.4. Check that country and city names are NOT written in ALL CAPS (capital letters).
 
-2.5. China affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned before city/county/district and there must be no comma between city/county/district and zip code. Zip code for is optional for any of the elements (city/county/district).
+2.5. China affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned after city/county/district and there must be no comma between city/county/district and zip code. Zip code for is optional for any of the elements (city/county/district).
 
 .. image:: /_static/aff_text_zip_china.png
    :alt: No comma between city/county/district and zip code
@@ -283,7 +283,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 - Space is allowed (but not mandatory) after semicolon and colon. Space is mandatory after both (JournalName and page numbers) dots. Other spaces are not allowed.
 
-- Page number range can be written either in full (12063-12074) or in shorten format (12063-74). Both formats are allowed. |br| 
+- Page number range must be written either in shorten format (12063-74). Only shortened format is allowed. |br| 
 In rare cases reference can contain just a first page number. This is also allowed.
 
 - DOI must be in "https://doi.org" format. There must be no dot at the end.
