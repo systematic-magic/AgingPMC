@@ -9,7 +9,7 @@ PDF: Editorials and News only
 1. Title
 --------
 
-1.1. Check that title is in :ref:`sentence case<sentence_case>`.
+1.1. Check that title is in sentence case.
 
 1.2. Check title spelling.
 
@@ -18,7 +18,7 @@ PDF: Editorials and News only
 1.4. Check that capitalisation of scientific terms is correct.
 
 1.5. Check that following Latin terms are written in italics: *in vivo, in vitro, in utero, in situ*. 
-For other Latin terms either italics or :ref:`plain text<plain_text>` is acceptable.
+For other Latin terms either italics or plain text is acceptable.
 
 
 .. image:: /_static/editiorial_title.png

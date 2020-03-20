@@ -2,21 +2,13 @@
    background-color: #194996;
 }
 
-body span.caption-text {
-	color: #3777de;
-}
-
-/*
-div p.caption {
-	color: #FF8C69;
-}
-
-*/
-
 .wy-nav-content {
    max-width: 1050px
 }
 
+body span.caption-text {
+	color: #3777de;
+}
 
 body span.sample {
 	font-family: monospace;
