@@ -212,7 +212,7 @@ Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also scre
 .. image:: /_static/pic9_author_name_format.png
    :alt: Author Names format
 
-9.1.2. Check that initials have no more than 4 letters and have NO hyphens or spaces in-between.
+9.1.2. Check that initials have no more than 2 letters and have NO hyphens or spaces in-between.
 
 9.1.3. Check all the mononyms (names which have no initials) to be “true” mononyms (check PubMed site).
 
