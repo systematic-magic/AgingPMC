@@ -98,7 +98,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 - Space is allowed (but not mandatory) after semicolon and colon. Space is mandatory after both (JournalName and page numbers) dots. Other spaces are not allowed.
 
 
-- Page number range can be written either in full (12063-12074) or in shorten format (12063-74). Both formats are allowed.
+- Page numbers must be written in shortened format (12063-74).
 
 
 - DOI must be in "https://doi.org" format. There must be no dot at the end.
