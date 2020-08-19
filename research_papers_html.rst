@@ -33,7 +33,7 @@ For other Latin terms either italics or plain text is acceptable.
 
 2.2. Check that there are NO street addresses and house numbers included in affiliation.
 
-2.3. Check that country and city names are present in affiliation.
+2.3. Check that country and city names are present in affiliation. State is also required in U.S. affiliations.
 
 2.4. Check that country and city names are NOT written in ALL CAPS (capital letters).
 
@@ -66,8 +66,7 @@ All acceptable combinations of “Current/Present address” are depicted on the
 
 2.11. Check that first word of Author Notes starts with a capital letter.
 
-2.12. Check that Author Notes are preceded by a symbol (or group of symbols). |br|
-Most used symbols are: \*, #, †
+2.12. Check that author notes are denoted by symbol (no numbers allowed). Each note should have **different** symbol.
 
 .. image:: /_static/aff_auth_note.png
    :alt: Author Notes
