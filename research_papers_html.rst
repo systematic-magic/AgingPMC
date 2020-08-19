@@ -116,7 +116,7 @@ All acceptable combinations of “Current/Present address” are depicted on the
 
 4.1. Check that Keywords section has a title "KEYWORDS” (ALL CAPS)
 
-4.2. Check that article has at least 1 keyword (Note: number of keywords is not limited).
+4.2. Check that article has at least 1 keyword and not more than 8 keywords.
 
 4.3. Check that keywords start with a small letter (exception: special terms, genes, proteins, species names etc, which normally start with capital letter).
 
