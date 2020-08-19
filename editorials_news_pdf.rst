@@ -189,13 +189,13 @@ Corresponding author and affiliations can be found at the end of the article rig
 -----------
 "Keywords:" section can be found at the end of the article right after the "Email:" section
 
-7.1. Check that there is no blank line between Email: and Keywords: sections
+7.1. Check that there is no blank line between Email: and Keywords: sections.
 
-7.2. Check that keywords section has a title "Keywords:" (starts with capital letter and followed by colon (:))
+7.2. Check that keywords section has a title "Keywords:" (starts with capital letter and followed by colon (:)).
 
 7.3. Check that "Keywords:" is formatted in black, bold and italic font.
 
-7.4. Check that "Keywords:" is followed by at least one keyword. (Note: number of keywords is not limited).
+7.4. Check that "Keywords:" is followed by at least one keyword. (Note: number of keywords is limited to 8).
 
 7.5. Check that keyword (or list of keywords) is formatted in italic font.
 
