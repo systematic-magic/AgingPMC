@@ -118,13 +118,13 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 Corresponding author and affiliations can be found at the end of the article right after the References section
 
-4.1. Check that full name of corresponding author is formatted in bold and underlined font and is followed by colon (:)
+4.1. Check that full name of corresponding author is formatted in bold and underlined font and is followed by colon (:).
 
-4.2. Check that full name of corresponding author is followed by affiliation (only one affiliation is allowed in PDF)
+4.2. Check that full name of corresponding author is followed by affiliation (only one affiliation is allowed in PDF).
 
-4.3. Check that affiliation is formatted in plain text (no special formatting)
+4.3. Check that affiliation is formatted in plain text (no special formatting).
 
-4.4. Check spelling of English words in affiliation
+4.4. Check spelling of English words in affiliation.
 
 4.5. Check that there are NO street addresses and house numbers included in affiliation.
 
@@ -146,7 +146,7 @@ Corresponding author and affiliations can be found at the end of the article rig
 
 "Correspondence:" section can be found at the end of the article right after the Corresponding author and affiliations
 
-5.1. Check that correspondence section has a title “Correspondence:” (starts with capital letter and followed by colon (:))
+5.1. Check that correspondence section has a title “Correspondence:” (starts with capital letter and followed by colon (:)).
 
 5.2. Check that "Correspondence:" is formatted in black, bold and italic font.
 
@@ -168,13 +168,13 @@ Corresponding author and affiliations can be found at the end of the article rig
 
 "Email:" section can be found at the end of the article right after the Correspondnce section
 
-6.1. Check that there is no blank line between Correspondence: and Email: sections
+6.1. Check that there is no blank line between Correspondence: and Email: sections.
 
-6.2.Check that email section has a title "Email:" (starts with capital letter and followed by colon (:))
+6.2.Check that email section has a title "Email:" (starts with capital letter and followed by colon (:)).
 
 6.3. Check that "Email:" is formatted in black, bold and italic font.
 
-6.4. Check that "Email:" is followed by hyperlinked email address. In case of multiple emails, those should be divided by comma (,).
+6.4. Check that "Email:" is followed by hyperlinked email address (only one email is allowed in PDF).
 
 6.5. Check that email address is formatted in blue, underlined, italic font.
 
