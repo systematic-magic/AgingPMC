@@ -118,9 +118,9 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 Corresponding author and affiliations can be found at the end of the article right after the References section
 
-4.1. Check that full name of corresponding author is formatted in bold and underlined font and is followed by conlon (:)
+4.1. Check that full name of corresponding author is formatted in bold and underlined font and is followed by colon (:)
 
-4.2. Check that full name of corresponding author is followed by affiliation (multiple affiliations are allowed and should be divided by semicolon (;))
+4.2. Check that full name of corresponding author is followed by affiliation (only one affiliation is allowed in PDF)
 
 4.3. Check that affiliation is formatted in plain text (no special formatting)
 
