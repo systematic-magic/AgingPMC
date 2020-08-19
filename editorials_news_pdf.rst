@@ -83,16 +83,16 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
    :alt: Editorials Citation Data format
 
 
-- JournalTitle should be followed by dot (.)
+- JournalTitle should be followed by dot (.). There should be a space after dot.
 
 
-- Year should be followed by semicolon (;)
+- Year should be followed by semicolon (;). There should be a space after semicolon.
 
 
-- Volume should be followed by colon (:)
+- Volume should be followed by colon (:). There can be a space after colon (but this is 
 
 
-- Page numbers should be followed by dot (.)
+- Page numbers should be followed by dot (.). There should be a space after dot.
 
 
 - Space is allowed (but not mandatory) after semicolon and colon. Space is mandatory after both (JournalName and page numbers) dots. Other spaces are not allowed.
