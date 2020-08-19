@@ -68,6 +68,10 @@ All acceptable combinations of “Current/Present address” are depicted on the
 
 2.12. Check that author notes are denoted by symbol (no numbers allowed). Each note should have **different** symbol.
 
+	- First author note should be denoted by: *
+	- Second author note should be denoted by: #
+	- Third author note should be denoted by: †
+
 .. image:: /_static/aff_auth_note.png
    :alt: Author Notes
 
