@@ -63,7 +63,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 3.2. Check that author names in the references have the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
  
-- Check that initials have no more than 3 letters and have NO spaces or hyphens in-between: `Rumi B, Jutten BC, Loo SCJ`
+- Check that initials have no more than 2 letters and have NO spaces or hyphens in-between: `Rumi B, Jutten BC`
 
 - LastName can include name-related prepositions starting with either upper- or lowercase letter: `van der Ent FW, Van den Brandt PA`
 
