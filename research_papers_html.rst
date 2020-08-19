@@ -133,7 +133,7 @@ All acceptable combinations of “Current/Present address” are depicted on the
 
 5.3. Check spelling of the month
 
-.. image:: /_static/dates_format.png
+.. image:: /_static/dates_frmat.png
    :alt: Dates format 
 
 
