@@ -274,17 +274,15 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 .. image:: /_static/citation_data.png
    :alt: Citation-Data format
 
-- JournalTitle should be followed by dot (.)
+- JournalTitle should be followed by dot (.). There should be a space after dot.
 
-- Year should be followed by semicolon (;)
+- Year should be followed by semicolon (;). There should be a space after semicolon.
 
-- Volume should be followed by colon (:)
+- Volume should be followed by colon (:). There can be a space after colon (but this is not mandatory).
 
-- Page numbers should be followed by dot (.)
+- Page numbers should be followed by dot (.). There should be a space after dot.
 
-- Space is allowed (but not mandatory) after semicolon and colon. Space is mandatory after both (JournalName and page numbers) dots. Other spaces are not allowed.
-
-- Page number range must be written either in shorten format (12063-74). Only shortened format is allowed. |br| 
+- Page number range must be written in shortened format (12063-74). Only shortened format is allowed. |br| 
 In rare cases reference can contain just a first page number. This is also allowed.
 
 - DOI must be in "https://doi.org" format. There must be no dot at the end.
