@@ -229,7 +229,7 @@ Corresponding author and affiliations can be found at the end of the article rig
 8.6. Check that full author name (or list of names) is followed by the following statement:
 
 
-:sample:`This is an open‐access article distributed under the terms of the Creative Commons Attribution License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited`
+:sample:`This is an open-access article distributed under the terms of the Creative Commons Attribution 3.0 License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are cited`
 
 
 .. image:: /_static/editorial_copyright.png
