@@ -210,30 +210,34 @@ Corresponding author and affiliations can be found at the end of the article rig
 ------------
 "Copyright:" section can be found at the end of the article right after the "Keywords:" section
 
-8.1. Check that there is no blank line between Keywords: and Copyright: sections
+8.1. Check that there is no blank line between Copyright and section preceding it.
 
-8.2. Check that copyright section has a title "Copyright:" (starts with capital letter and followed by colon(:))
+8.2. Check that Copyright section has a title "Copyright:" (:ref:`title case<title_case>` and followed by colon (:)).
 
 8.3. Check that "Copyright:" is formatted in black, bold and italic font.
 
-8.4. Check that "Keywords:" is followed by one of the following options:
+8.4. Check that copyright string starts with copyright symbol (©) and is followed by a YEAR.
 
-	- single author name followed by dot (.) [in case paper has only one author]
+8.5. Check that the YEAR is followed by one of the following options:
 
-	- 2 authors divided by "and" and followed by dot (.) [in case paper has 2 authors]
+	- single author surname followed by period (.) [in case where paper has only one author]
 
-	- one author name followed by `et al.` [in case paper has more than 2 authors]
+	- 2 author surnames divided by "and" and followed by period (.) [in case where paper has 2 authors]
 
-8.5. Check that author name (or list of names) is formatted in italic font.
+	- one author surname followed by `et al.` [in case where paper has more than 2 authors]
 
-8.6. Check that full author name (or list of names) is followed by the following statement:
+8.6. Check that author surname (or list of surnames) is formatted in italic font.
 
+8.7. Check that author surname  name (or list of surnames) is followed by the following statement:
 
-:sample:`This is an open-access article distributed under the terms of the Creative Commons Attribution 3.0 License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are cited`
+:sample:`This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited`
 
+8.8. Check that there are no punctuation marks at the end of copyright line.
 
-.. image:: /_static/editorial_copyright.png
-   :alt: Copyright
+8.9. Check that last name of first author matches last name of the first author in the author list. In case of 2 authors, check that last names match names in the author list.
+
+8.10. Check that “Creative Commons Attribution License” is a working hyperlink that leads to https://creativecommons.org/licenses/by/3.0/.
+
 
 |
 .. _dates_editorials_news:
