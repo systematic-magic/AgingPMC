@@ -146,25 +146,30 @@ All acceptable combinations of “Current/Present address” are depicted on the
 
 6. Copyright
 ------------
-6.1. Check that copyright section has a title "Copyright ©" (starts with capital letter and followed by copyright symbol (©))
+8.1. Check that copyright section has a title “Copyright:” (:ref:`title case<title_case>`).
 
-6.2. Check that copyright sting starts with a YEAR followed by:
+8.2. Check that copyright string starts with copyright symbol (©) and is followed by a YEAR.
+
+8.3. Check that the YEAR is followed by:
 
 :sample:`Last name of first author et al.`
 
 **or** 
 
-:sample:`two last names divided by "and"` (if there are only two authors in the article)
+:sample:`two last names divided by "and" and followed by a period (.)` (if there are only two authors in the article)
 
 and followed by:
 
-:sample:`This is an open-access article distributed under the terms of the Creative Commons Attribution 3.0 License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are cited.`
-
+:sample:`This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.` 
 
 .. image:: /_static/cpright_format.png
-   :alt: Copyright format 
+   :alt: Copyright format
+   :scale: 99%
 
-6.3. Check that Last name of first author matches last name of the first author in the Author List. In case of 2 authors, check that last names match names in the Author List.
+8.4. Check that last name of first author matches last name of the first author in the author list. In case of 2 authors, check that last names match names in the author list.
+
+8.5. Check that “Creative Commons Attribution License” is a working hyperlink that leads to https://creativecommons.org/licenses/by/3.0/.
+
 
 |
 .. _hyperlinks_research_papers:
