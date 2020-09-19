@@ -146,11 +146,11 @@ All acceptable combinations of “Current/Present address” are depicted on the
 
 6. Copyright
 ------------
-8.1. Check that copyright section has a title “Copyright:” (:ref:`title case<title_case>`).
+6.1. Check that copyright section has a title “Copyright:” (:ref:`title case<title_case>`).
 
-8.2. Check that copyright string starts with copyright symbol (©) and is followed by a YEAR.
+6.2. Check that copyright string starts with copyright symbol (©) and is followed by a YEAR.
 
-8.3. Check that the YEAR is followed by:
+6.3. Check that the YEAR is followed by:
 
 :sample:`Last name of first author et al.`
 
@@ -166,9 +166,9 @@ and followed by:
    :alt: Copyright format
    :scale: 99%
 
-8.4. Check that last name of first author matches last name of the first author in the author list. In case of 2 authors, check that last names match names in the author list.
+6.4. Check that last name of first author matches last name of the first author in the author list. In case of 2 authors, check that last names match names in the author list.
 
-8.5. Check that “Creative Commons Attribution License” is a working hyperlink that leads to https://creativecommons.org/licenses/by/3.0/.
+6.5. Check that “Creative Commons Attribution License” is a working hyperlink that leads to https://creativecommons.org/licenses/by/3.0/.
 
 
 |
