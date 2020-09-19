@@ -4,10 +4,6 @@
 
 PDF: Editorials and News only
 =============================
-.. ATTENTION::
-	
-	It is not necessary to check HTML for editorials. Only check :ref:`PDF<title_editorials_news>`.
-
 
 
 .. |br| raw:: html
