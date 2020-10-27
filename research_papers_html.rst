@@ -308,7 +308,7 @@ and followed by:
 
 	- Check that there is a space after comma (,) and no space before and after en dash (–).
 
-	- Check that reference callouts are in :ref:`plain text<plain_text>` and a number (or numbers in case of ranges) is hyperlinked.
+	- Check that all reference callouts are in :ref:`plain text<plain_text>` and a number (or numbers in case of ranges) is hyperlinked (callouts will not be hyperlinked if they appear in figures).
 
 
 9.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. i.e. in the range of [1–3] reference 2 is not present in the text, but covered in the range. This case is acceptable. |br|
