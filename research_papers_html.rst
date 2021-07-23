@@ -333,6 +333,11 @@ Callouts can be found in text, figures and tables.
 10. References
 --------------
 
+.. Note::
+	
+	Please refer to `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ and the original article when investigating missing or doubtful information in references with the exception of PubMed links. Inform Lisa if there is a discrepancy between PubMed and the original article.
+
+
 .. _refs_author_list_html_research_papers:
 
 10.1. Author List
