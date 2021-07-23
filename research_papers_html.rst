@@ -542,9 +542,25 @@ If you find duplicate references, please contact production team and ask to corr
    	  	:alt: Supplemental issue formatting
    	  	:scale: 99%
 
-10.5.7. Preprint articles are allowed in references. A couple of examples (not limited to) would be from sources such as `BioRxiv <https://www.biorxiv.org/>`_ and `Preprints <https://www.preprints.org/>`_.
+10.5.8. Preprint articles are allowed in references. A couple of examples (not limited to) would be from sources such as `BioRxiv <https://www.biorxiv.org/>`_ and `Preprints <https://www.preprints.org/>`_.
 
 - These should be formatted to the same standards as described above in :ref:`10.1<refs_author_list_html_research_papers>`, :ref:`10.2<reference_title_html_research_papers>` and :ref:`10.3.2<citation_data_in_house_format_html_research_papers>` with the exception that a special ID number will typically be used in place of volume and page numbers.
+
+10.5.9. Retracted articles are allowed in references. If you come across one, check to make sure that is has a retraction note:
+
+- If an article is being cited that was later retracted, a note should appear at the end of the reference with the following details about the retraction notice (add a period before the note if one is not present): |br|
+|span_format_start| Retraction in: JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
+
+.. image:: /_static/retracted_article.png
+  	:alt: Retracted article note
+  	:scale: 99%
+
+- If a retraction notice itself is being cited, "Retracted:" should appear before the title of the paper like this: |br|
+|span_format_start| Retracted: ReferenceTitle. JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
+
+.. image:: /_static/retraction_notice.png
+  	:alt: Retraction notice note
+  	:scale: 99%
 
 
 |
