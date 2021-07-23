@@ -544,7 +544,7 @@ If you find duplicate references, please contact production team and ask to corr
 
 10.5.7. Preprint articles are allowed in references. A couple of examples (not limited to) would be from sources such as `BioRxiv <https://www.biorxiv.org/>`_ and `Preprints <https://www.preprints.org/>`_.
 
-- These should be formatted to the same standards as described above in :ref:`10.1<refs_author_list_html_research_papers>`, :ref:`10.2<reference_title_html_research_papers>` and :ref:`10.4<citation_data_other_journals_html_research_papers>` with the exception that a special ID number will typically be used in place of volume and page numbers.
+- These should be formatted to the same standards as described above in :ref:`10.1<refs_author_list_html_research_papers>`, :ref:`10.2<reference_title_html_research_papers>` and :ref:`10.3.2<citation_data_in_house_format_html_research_papers>` with the exception that a special ID number will typically be used in place of volume and page numbers.
 
 
 |
