@@ -1,4 +1,5 @@
 .. role:: sample
+.. role:: sampleb
 
 .. _html_research_papers:
 
