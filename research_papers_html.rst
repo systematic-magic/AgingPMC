@@ -107,28 +107,31 @@ If there is only one affiliation text for all authors, then each author name sho
 
 3.3. Check that country and city names are present in affiliation. State is also required and should be :ref:`abbreviated<state_abbr>` in U.S. affiliations.
 
-2.4. Check that country and city names are NOT written in ALL CAPS (capital letters).
+3.4. Check that country and city names are NOT written in ALL CAPS (capital letters).
 
-3.5. Chinese affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned after city/county/district and there must be no comma between city/county/district and zip code. Zip code is optional for any of the elements (city/county/district).
+3.5. Check that each individual country is formatted consistently.
+Allowed variations for China and Taiwan can be found :ref:`here<country_abbr>`. 
+
+3.6. Chinese affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned after city/county/district and there must be no comma between city/county/district and zip code. Zip code is optional for any of the elements (city/county/district).
 
 .. image:: /_static/aff_text_zip_china.png
    :alt: No comma between city/county/district and zip code
    :scale: 99%
 
-3.6. Taiwanese affiliations: Check that “Taiwan” is used for the country. “ROC” and/or “Republic of China” should not be used instead of or in addition to “Taiwan”.
+3.7. Taiwanese affiliations: Check that “Taiwan” is used for the country. “ROC” and/or “Republic of China” should not be used instead of or in addition to “Taiwan”.
 
-3.7. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
+3.8. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
 
-3.8. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
+3.9. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
 
 .. image:: /_static/aff_text_zip_state_city.png
    :alt: No comma between zip code and state (US) / city (non-US)
    :scale: 99%
 
-3.9. Check that each affiliation number has only one complete affiliation. One affiliation – one number. |br|
+3.10. Check that each affiliation number has only one complete affiliation. One affiliation – one number. |br|
 One exclusion: affiliations of Chinese authors, where Key Laboratory combines different institutions. In that case one number can contain two affiliations.
 
-3.10. Occasionally affiliations can contain “Current/Present address:” title. If it is present:
+3.11. Occasionally affiliations can contain “Current/Present address:” title. If it is present:
 
 	- Check that it has a separate affiliation number. One address - one affiliation number.
 
@@ -141,7 +144,7 @@ All acceptable combinations of “Current/Present address” are depicted on the
    :scale: 99%
 
 
-3.11. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
+3.12. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
 
 .. image:: /_static/aff_parts.png
    :alt: Affiliation format
