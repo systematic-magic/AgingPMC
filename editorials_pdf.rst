@@ -277,7 +277,7 @@ Corresponding author and affiliation can be found at the end of the article righ
 
 5.6. Check that there are NO street addresses and house numbers included in affiliation.
 
-5.7. Check that country and city names are present in affiliation. State is also required in U.S. affiliations.
+5.7. Check that country and city names are present in affiliation. State is also required in U.S. affiliations and should be :ref:`abbreviated<state_abbr>`.
 
 5.8. Check that country and city names are NOT written in ALL CAPS (capital letters).
 
