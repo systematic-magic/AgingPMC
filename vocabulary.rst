@@ -86,6 +86,23 @@ Shortened format for page number ranges
 Notes
 =====
 
+.. _country_abbr:
+
+Accepted variations for China
+	- China
+	- People's Republic of China
+	- PRC (or P.R.C.)
+	- PR (or P.R.) China
+
+Accepted variations Taiwan
+	- Taiwan
+	- Republic of China
+	- ROC (or R.O.C.)
+	- Taiwan, Republic of China
+	- Taiwan, ROC (or R.O.C.)
+
+    |
+
 .. _state_abbr:
 
 US State abbreviations
