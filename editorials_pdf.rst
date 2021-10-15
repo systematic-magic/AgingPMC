@@ -153,6 +153,7 @@ Callouts can be found in text and figures.
 
   - Allow the number of initials author has supplied if different from PubMed and/or original article (within the 3 initial limit).
 
+
 - NO hyphens or spaces allowed in-between initials.
 
 4.1.3. Check that all :ref:`mononyms<mononym>` (names which have no initials) are “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
