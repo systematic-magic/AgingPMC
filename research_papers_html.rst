@@ -362,9 +362,11 @@ Callouts can be found in text, figures and tables.
 
 - NO hyphens or spaces allowed in-between initials.
 
-10.1.3. Check that all :ref:`mononyms<mononym>` (names which have no initials) are “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
+10.1.3. Remove any electronic addresses (Ex. Electronic address: easloffice@easloffice.eu).
 
-10.1.4. Check that list of authors contains no more than either:
+10.1.4. Check that all :ref:`mononyms<mononym>` (names which have no initials) are “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
+
+10.1.5. Check that list of authors contains no more than either:
 
 - 13 authors followed by “et al.”  OR
 
@@ -379,15 +381,15 @@ Callouts can be found in text, figures and tables.
    :alt: Max number of authors followed by et al
    :scale: 99%
 
-10.1.5. Check that authors are separated by comma (,) followed by space.
+10.1.6. Check that authors are separated by comma (,) followed by space.
 
-10.1.6. Check that et al is separated from list of authors by comma (,).
+10.1.7. Check that et al is separated from list of authors by comma (,).
 
-10.1.7. Check that there is a period (.) either after the last author name (if there are less or equal to 14 authors), or after et al (if there are exactly 13 authors + et al), or after :ref:`group authorship<group_authorship>` (if present).
+10.1.8. Check that there is a period (.) either after the last author name (if there are less or equal to 14 authors), or after et al (if there are exactly 13 authors + et al), or after :ref:`group authorship<group_authorship>` (if present).
 
-10.1.8. List of authors can contain :ref:`group authorship<group_authorship>` (see screenshot below). Check that group authorship is positioned at the end of list of authors. Other positions are not allowed.
+10.1.9. List of authors can contain :ref:`group authorship<group_authorship>` (see screenshot below). Check that group authorship is positioned at the end of list of authors. Other positions are not allowed.
 
-10.1.9. :ref:`Group authorship<group_authorship>` must be separated from author list by comma (,) and "and" word. Group authorship is not counted against total number of authors in the author list quota.
+10.1.10. :ref:`Group authorship<group_authorship>` must be separated from author list by comma (,) and "and" word. Group authorship is not counted against total number of authors in the author list quota.
 
 
 .. image:: /_static/ref_etal_group_auth.png
@@ -399,7 +401,7 @@ Callouts can be found in text, figures and tables.
    :scale: 99%
 
 
-10.1.10. If there are multiple :ref:`group authorships<group_authorship>`, then those should be separated by comma (,) and "and" word. 
+10.1.11. If there are multiple :ref:`group authorships<group_authorship>`, then those should be separated by comma (,) and "and" word. 
 
 .. image:: /_static/ref_mult_group_auth.png
    :alt: Group Authorship
