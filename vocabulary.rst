@@ -103,6 +103,14 @@ Accepted variations Taiwan
 	- Taiwan, Republic of China
 	- Taiwan, ROC (or R.O.C.)
 
+Accepted variations Hong Kong
+	- Hong Kong
+	- Hong Kong SAR
+
+.. Note::
+	
+	Taiwan and Hong Kong can optionally include China (or any of its allowed variations) as the ultimate country as long as consistency is maintained throughout the affiliations.
+
     |
 
 .. _state_abbr:
