@@ -317,7 +317,7 @@ Corresponding author and affiliation can be found at the end of the article righ
 
  - Please provide your suggested edits to Lisa for approval before making any changes to affiliation order.
 
-5.15. Special Formatting Notes
+5.15. Special Formatting Notes:
 
 - Check that “MD” in “MD Anderson Cancer Center” appears as such (not “M D”, “M.D.”, etc..).
 
