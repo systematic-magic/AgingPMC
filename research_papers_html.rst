@@ -158,6 +158,9 @@ All acceptable combinations of “Current/Present address” are depicted on the
 
  - Please provide your suggested edits to Lisa for approval before making any changes to affiliation order.
 
+3.13. Special Formatting Notes
+
+- Check that “MD” in “MD Anderson Cancer Center” appears as such (not “M D”, “M.D.”, etc..).
 
 |
 .. _author_notes_html_research_papers:
